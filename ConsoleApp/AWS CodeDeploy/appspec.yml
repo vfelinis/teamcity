@@ -1,5 +1,5 @@
 version: 0.0
 os: windows
 files:
-  - source: C:\Projects
+  - source: \
     destination: c:\temp\app2
