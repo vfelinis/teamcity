@@ -15,7 +15,7 @@ namespace UnitTests
         public void SumTest()
         {
             Service service = new Service();
-            var expected = 10;
+            var expected = 110;
 
             var actual = service.Sum(5, 5);
 
